@@ -1,0 +1,9 @@
+
+
+.cards:nth-child(4){
+    list-style: circle;
+    }
+
+.cards:nth-child(1){
+list-style: square;
+}
