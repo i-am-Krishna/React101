@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+ .header{
+   display: flex;
+   justify-content: space-around;
+   width: 100%;
+   max-height: 80px ;
+   background-color: rgb(33, 31, 31);
+   align-items: center;
+   padding: 10px;
+   margin-top: 40px;
+
+ }
