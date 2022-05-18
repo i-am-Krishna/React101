@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color:#ffa500;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+.card:nth-child(2){
+    background-color: whitesmoke;
+}
+.left_side{
+    width: 70%;
+    height: 100%;
+    text-align: left;
+    padding-left: 10px;
+}
+.right_side{
+    width: 30%;
+    height: 100%; 
+    justify-content: center;
+}
+ 
