@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "ad41dbaf-5a02-4f43-bce4-3f077e71bc55",
+      "title": "India",
+      "status": false
+    },
+    {
+      "id": "095e9234-374f-4d7d-ad4f-685b72d6a663",
+      "title": "wd",
+      "status": false
+    },
+    {
+      "id": "f106ee80-6281-4bdd-94b8-948187c40829",
+      "title": "Krishna",
+      "status": false
+    },
+    {
+      "id": "4715988b-b569-4c59-b821-769389faf617",
+      "title": "India is great",
+      "status": false
+    },
+    {
+      "id": "9606a804-92a4-4474-a3be-51eea9d9debf",
+      "title": "Deee",
+      "status": false
+    },
+    {
+      "id": "be67d656-edd6-4f16-b9c4-b42622326b7a",
+      "title": "sdff",
+      "status": false
+    }
+  ]
+}
